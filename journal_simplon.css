@@ -1,0 +1,41 @@
+*{
+  margin:0;
+  padding: 0;
+}
+header{
+  background-color: grey;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+nav{
+  width:100%;
+  background-color: #151515;
+
+  left: 0px;
+  display: inline-block;
+  height: 60px;
+}
+img{
+width:500px;
+float: left;
+margin-left: 160px;
+}
+h2 {
+  clear: left;
+  padding-top: 70px;
+  margin-top:20px;
+  padding-left: 200px;
+  padding-bottom: 80px;
+}
+p{
+  margin-left: 30px;
+  clear: left;
+  float: right;
+  margin-right:50px;
+}
+
+footer {
+  clear: right;
+  background-color: red;
+}
